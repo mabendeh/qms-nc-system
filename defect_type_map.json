@@ -1,0 +1,23 @@
+{
+  "CC": [
+    "Short Circuit",
+    "Wrong Polarity",
+    "Bent Tabs"
+  ],
+  "CCSA": [
+    "Weld Gap",
+    "Burn Mark",
+    "Loose Connector"
+  ],
+  "D Line": [
+    "Scratch",
+    "Missing Insert",
+    "Burr",
+    "Misalignment"
+  ],
+  "HV Busbar": [
+    "Cracked Insulation",
+    "Weld Void",
+    "Misplaced Seal"
+  ]
+}
